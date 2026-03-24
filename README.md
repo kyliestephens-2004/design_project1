@@ -1,4 +1,4 @@
-#DS 4320 Project 1: Title
+# DS 4320 Project 1: Title
 
 Executive Summary - Short paragraph explaining the
 contents of the respository in executive form
