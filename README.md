@@ -23,6 +23,18 @@ top level of the repository (use normal GitHub conventions)
 
 # Domain Exposition
 
+| Term                            | Definition                                                                                   |
+| ------------------------------- | -------------------------------------------------------------------------------------------- |
+| Hospital Readmission            | When a patient is admitted to a hospital again within a specific time period after discharge |
+| 30-Day Readmission              | A common healthcare quality metric measuring readmission within 30 days                      |
+| Predictive Model                | A machine learning model that forecasts future outcomes based on data                        |
+| Electronic Health Records (EHR) | Digital records of patient medical history and hospital visits                               |
+| Risk Score                      | A numerical estimate representing the likelihood of a particular outcome                     |
+| Healthcare KPI                  | A key performance indicator used to measure hospital performance                             |
+
+This project exists within the healthcare analytics and predictive medicine domain. Healthcare organizations collect large volumes of patient data through electronic health record systems. Data science techniques allow analysts to use this data to identify patterns and predict health outcomes. Predictive analytics is increasingly used in hospitals to support clinical decision-making, optimize patient care, and reduce operational costs. One of the most widely studied problems in healthcare analytics is hospital readmission because it directly impacts both patient wellbeing and healthcare system efficiency. By analyzing patient demographics, diagnoses, and treatment history, predictive models can estimate the probability that a patient will return to the hospital after discharge.
+
+
 | # | Title                                                                                   | Brief Description                                                                                               | Link                                                  |
 | - | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
 | 1 | Predictive Modeling of the Hospital Readmission Risk                                    | Discusses machine learning models for hospital readmission prediction using claims data and EHR features.       | https://github.com/kyliestephens-2004/design_project1/blob/main/Background-Readings/A1.pdf               |
