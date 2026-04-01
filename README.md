@@ -19,20 +19,27 @@ License State: MIT License
 
 
 ## Problem Definition
-General- Hospital readmissions are a major challenge in healthcare systems. Patients who return to the hospital shortly after discharge often experience poorer health outcomes, and hospitals face financial penalties from insurers and government programs for excessive readmission rates.
+
+Problem Statements:
+General- Hospital readmissions and predicting them is a major challenge in healthcare system.
 
 Refined - This project focuses on predicting the risk of hospital readmission within 30 days after discharge using patient data such as demographics, diagnoses, prior admissions, and length of stay. The goal is to develop a predictive model that identifies high-risk patients before discharge so healthcare providers can intervene early.
 
+Rationale:
 The general problem of hospital readmissions is broad and involves many systemic healthcare issues such as staffing, patient behavior, and hospital resources. To make the problem manageable within a data science project, the scope was refined to predicting 30-day readmission risk using available patient data. Thirty-day readmission is a widely used benchmark in healthcare quality metrics and is commonly used by programs such as Medicare when evaluating hospital performance. Focusing on this specific timeframe allows the project to use measurable outcomes and structured datasets while still addressing a meaningful healthcare challenge.
 
+Motivation:
 Predicting hospital readmissions has significant implications for both patient health and healthcare costs. Patients who are readmitted soon after discharge may not have received adequate follow-up care or may suffer complications from their original condition. Hospitals are also financially impacted because many healthcare systems impose penalties for high readmission rates. By identifying patients at high risk of readmission, healthcare providers can implement targeted interventions such as follow-up appointments, medication management, or additional monitoring. A predictive model could therefore improve patient outcomes while also helping hospitals allocate resources more effectively.
 
-Headline of Press Release and link to press release
-Headline- AI Model Predicts Hospital Readmission Risk to Improve Patient Care
+Headline of Press Release and link to press release:
+
+Headline: Using Machine Learning to Predict Hospital Readmission Risk for Patients within 30 Days
 Link to Press Release Markdown: https://github.com/kyliestephens-2004/design_project1/blob/main/Press-Release.md
 
 
 ## Domain Exposition
+
+Terminology:
 
 | Term                            | Definition                                                                                   |
 | ------------------------------- | -------------------------------------------------------------------------------------------- |
@@ -43,7 +50,12 @@ Link to Press Release Markdown: https://github.com/kyliestephens-2004/design_pro
 | Risk Score                      | A numerical estimate representing the likelihood of a particular outcome                     |
 | Healthcare KPI                  | A key performance indicator used to measure hospital performance                             |
 
+
+Domain:
 This project exists within the healthcare analytics and predictive medicine domain. Healthcare organizations collect large volumes of patient data through electronic health record systems. Data science techniques allow analysts to use this data to identify patterns and predict health outcomes. Predictive analytics is increasingly used in hospitals to support clinical decision-making, optimize patient care, and reduce operational costs. One of the most widely studied problems in healthcare analytics is hospital readmission because it directly impacts both patient wellbeing and healthcare system efficiency. By analyzing patient demographics, diagnoses, and treatment history, predictive models can estimate the probability that a patient will return to the hospital after discharge.
+
+Background Readings:
+
 
 
 | # | Title                                                                                   | Brief Description                                                                                               | Link                                                  |
