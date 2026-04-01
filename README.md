@@ -104,7 +104,7 @@ Overall, these decisions reflect trade-offs between data completeness, clinical 
 ## Metadata
 
 Schema
-![Metadata ERD](Images/Visualizations/metadata.png)
+![Metadata ERD](Images/Visualizations/ERD.png)
 
 Data
 The dataset consists of multiple tables representing patient demographics, hospital visits, clinical conditions, procedures, and engineered features for readmission prediction. Each table is accessible through the shared dataset link provided.
