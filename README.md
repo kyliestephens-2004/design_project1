@@ -78,9 +78,11 @@ Data Acquisition Process:
 Link to Code for Data Assembly: https://github.com/kyliestephens-2004/design_project1/blob/main/data_assembly.ipynb
 
 Bias Identification:
+
 Bias may be introduced due to the synthetic nature of the data. Although Synthea simulates realistic patient records, it does not perfectly replicate real-world healthcare utilization patterns. For example, the dataset exhibited a higher-than-expected rate of 30-day readmissions, likely due to the frequency and structure of simulated encounters. Additionally, demographic distributions (e.g., race, age) may not accurately reflect real populations, introducing representation bias.
 
 Bias Mitigation:
+
 To address these biases, several strategies can be applied. First, model evaluation should rely on metrics beyond accuracy, such as precision, recall, and F1-score, to account for class imbalance. Second, resampling techniques or class weighting can be used during model training. Finally, results should be interpreted with caution, acknowledging that synthetic data may not generalize to real-world populations.
 
 Rationale for Critical Decisions:
@@ -106,7 +108,8 @@ Overall, these decisions reflect trade-offs between data completeness, clinical 
 Schema
 ![Metadata ERD](Images/Visualizations/ERD.png)
 
-Data
+Data:
+
 The dataset consists of multiple tables representing patient demographics, hospital visits, clinical conditions, procedures, and engineered features for readmission prediction. Each table is accessible through the shared dataset link provided.
 
 | Table Name           | Description                                                                 | Dataset Link |
