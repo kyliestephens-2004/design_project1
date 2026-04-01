@@ -72,7 +72,7 @@ Uncertainty is also introduced through feature engineering decisions, such as ho
 
 ## Metadata
 
-![Metadata ERD](Images-Visualizations/metadata.png)
+![Metadata ERD](Images/Visualizations/metadata.png)
 
 | Feature           | Type          | Description                                                 | Example |
 | ----------------- | ------------- | ----------------------------------------------------------- | ------- |
