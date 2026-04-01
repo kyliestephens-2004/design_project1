@@ -13,14 +13,14 @@ DOI:
 
 Link to Press Release:
 
-https://colab.research.google.com/drive/1Tr1MRzhJRW3NbFYXslC7sI61albDhwy_?usp=sharing 
+https://github.com/kyliestephens-2004/design_project1/blob/main/Press-Release.md
 
 Link to Data (One Drive Folder): Contains data in csv and parquet form.
 
 https://myuva-my.sharepoint.com/:f:/g/personal/uqj5uw_virginia_edu/IgC1jn9UyYwbR6PRk7h_LHseAS4iLyl0_66hQn3Np171KBY?e=QTEY12
 
 Pipeline: 
-https://colab.research.google.com/drive/1EuoAJhddXGdDML7ycRt_NIKFSMER9cga?usp=sharing  
+https://github.com/kyliestephens-2004/design_project1/tree/main/Problem%20Solution%20Pipeline%20Files
 
 License State: MIT License 
 
