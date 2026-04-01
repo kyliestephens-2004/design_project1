@@ -10,4 +10,11 @@ Hospital readmissions are a major challenge for healthcare systems worldwide. Ma
 ## Solution Description
 This project uses a predictive analytics model to estimate the likelihood of hospital readmission for each patient based on historical data, including demographics, medical history, diagnoses, and prior admissions. Healthcare providers can use these predictions to intervene early with personalized care plans, schedule follow-ups, or provide additional support for high-risk patients, ultimately improving patient outcomes and reducing unnecessary hospital visits. Implementing a predictive model like this into healthcare will benefit not only healthcare workers and providers, but also patients and insurance companies, effectively saving money, time, and lives.
 
-## Chart
+## Charts
+![Figure 1](Images/Visualizations/fig1.png)
+
+![Figure 2](Images/Visualizations/fig2.png)
+
+![Figure 3](Images/Visualizations/fig3.png)
+
+![Figure 4](Images/Visualizations/fig4.png)
