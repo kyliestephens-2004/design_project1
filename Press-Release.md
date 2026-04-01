@@ -1,6 +1,6 @@
 # Press Release
 
-# Header: Using Machine Learning to Predict Hospital Readmission Risk for Patients within 30 Days
+# Headline: Using Machine Learning to Predict Hospital Readmission Risk for Patients within 30 Days
 
 ## Hook: What if hospitals could identify patients most likely to return before they even leave?
 
