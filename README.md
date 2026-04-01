@@ -7,7 +7,8 @@ Name: Kylie Stephens
 
 NetID: uqj5uw
 
-DOI - create a DOI for your project  
+DOI: 
+[![DOI](https://zenodo.org/badge/1188987828.svg)](https://doi.org/10.5281/zenodo.19362953) 
 
 Link to Press Release:
 
