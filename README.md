@@ -92,7 +92,7 @@ Data Acquisition Process:
 
 | File / Script         | Description                                                                                                                                                                                                                                  | Link to Code                                                                            |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| `Data_Creation.ipynb` | Loads raw Synthea CSV files (person, visit_occurrence, etc.), calculates patient age, identifies 30-day readmissions, merges demographics with visit data, and outputs `synthetic_final.csv`. | [GitHub link] https://github.com/kyliestephens-2004/design_project1/blob/main/data_assembly.ipynb|
+| `Data_Creation.ipynb` | Loads raw Synthea CSV files (person, visit_occurrence, etc.), calculates patient age, identifies 30-day readmissions, merges demographics with visit data, and outputs 6 csv files and 6 parquet files for further analysis and querying. | [GitHub link] https://github.com/kyliestephens-2004/design_project1/blob/main/data_assembly.ipynb|
 
 
 Link to Code for Data Assembly: https://github.com/kyliestephens-2004/design_project1/blob/main/data_assembly.ipynb
