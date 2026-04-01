@@ -23,6 +23,7 @@ Pipeline:
 https://colab.research.google.com/drive/1EuoAJhddXGdDML7ycRt_NIKFSMER9cga?usp=sharing  
 
 License State: MIT License 
+
 Link to License File:
 
 https://github.com/kyliestephens-2004/design_project1/blob/main/LICENSE
