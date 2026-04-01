@@ -9,13 +9,21 @@ NetID: uqj5uw
 
 DOI - create a DOI for your project  
 
-Link to Press Release: https://colab.research.google.com/drive/1Tr1MRzhJRW3NbFYXslC7sI61albDhwy_?usp=sharing 
+Link to Press Release:
 
-Link to Data (One Drive Folder) - https://myuva-my.sharepoint.com/:f:/g/personal/uqj5uw_virginia_edu/IgC1jn9UyYwbR6PRk7h_LHseAS4iLyl0_66hQn3Np171KBY?e=QTEY12
+https://colab.research.google.com/drive/1Tr1MRzhJRW3NbFYXslC7sI61albDhwy_?usp=sharing 
 
-Pipeline: https://colab.research.google.com/drive/1EuoAJhddXGdDML7ycRt_NIKFSMER9cga?usp=sharing  
+Link to Data (One Drive Folder): Contains data in csv and parquet form.
+
+https://myuva-my.sharepoint.com/:f:/g/personal/uqj5uw_virginia_edu/IgC1jn9UyYwbR6PRk7h_LHseAS4iLyl0_66hQn3Np171KBY?e=QTEY12
+
+Pipeline: 
+https://colab.research.google.com/drive/1EuoAJhddXGdDML7ycRt_NIKFSMER9cga?usp=sharing  
 
 License State: MIT License 
+Link to License File:
+
+https://github.com/kyliestephens-2004/design_project1/blob/main/LICENSE
 
 
 ## Problem Definition
