@@ -15,8 +15,7 @@ Link to Data (One Drive Folder) - https://myuva-my.sharepoint.com/:f:/g/personal
 
 Pipeline: https://colab.research.google.com/drive/1EuoAJhddXGdDML7ycRt_NIKFSMER9cga?usp=sharing  
 
-License State name of license here and link to the file in the
-top level of the repository (use normal GitHub conventions)
+License State: MIT License 
 
 
 ## Problem Definition
