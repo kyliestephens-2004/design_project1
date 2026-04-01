@@ -1,7 +1,8 @@
 # DS 4320 Project 1: Predicting Hospital Readmission Risk
 
-Executive Summary - Short paragraph explaining the
-contents of the respository in executive form
+Executive Summary:
+
+This project explores hospital patient data to build a model that predicts the risk score for a patient to be admitted within the next 30 days. The README contains all links to any necessary jupyter notebooks, code, or other markdown documents. There are folders cfor background readings regarding the domain of the problem, images used in the press release and of the ERD for the metadata, and a folder containing both the ipynb and md of the problem solution pipeline files. There are also separate files for a press release markdown document, a data creation jupyter notebook, and a license file to have this project listed under the MIT license. The README file follows the project work process and flow starting with problem definition, then moving to domain exposition, data creation, and metadata exploration. Continue reading to find out the exciting details of this project!
 
 Name: Kylie Stephens 
 
